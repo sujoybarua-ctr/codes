@@ -8,3 +8,6 @@ hi hello ,
 im not what you think of me
 """
 print(message)
+print(len(message))
+print(message[2])
+print(message[-2])
